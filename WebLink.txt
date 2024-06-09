@@ -1,1 +1,1 @@
-https://synthiapersonaiassistant.streamlit.app/
+https://synthia-ai-assistant.streamlit.app/
