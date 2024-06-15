@@ -9,7 +9,7 @@ import time  # Used for handling delays
 TEXT_GENERATION_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3"
 IMAGE_CAPTIONING_API_URL = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
 IMAGE_GENERATION_API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY"
 
 def query_text_generation(payload, max_new_tokens=1000):
     """
